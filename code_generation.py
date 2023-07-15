@@ -1,8 +1,5 @@
 import streamlit as st
 from PIL import Image
-import openai
-import re
-#from secret_key import openai_key
 from main import generate_code
 
 im = Image.open('CodeHub Logo.png')
