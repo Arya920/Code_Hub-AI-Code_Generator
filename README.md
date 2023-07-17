@@ -1,6 +1,12 @@
 # CodeHub AI Code Generator
 ![Landing Page](https://github.com/Arya920/Code_Hub-AI-Code_Generator/blob/main/CodeHub%20Logo.png)
 
+## Index 
+- *`Direct Link`*
+- *`Overview`*
+- *`Objective`*
+- *`Technologies`*
+
 [Direct Link to Web App](https://codegenerationpy.streamlit.app/)
 
 ## Overview
